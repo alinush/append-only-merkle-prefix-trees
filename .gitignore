@@ -1,0 +1,4 @@
+*.html
+/*.csv
+hashperiments
+.DS_Store
